@@ -1,0 +1,11 @@
+
+" Ignore cache, logs and config
+opencart-2.0.3.1/upload/admin/config.php
+opencart-2.0.3.1/upload/config.php
+opencart-2.0.3.1/upload/image/cache/catalog/
+opencart-2.0.3.1/upload/image/cache/no_image-45x45.png
+opencart-2.0.3.1/upload/system/cache/cache.language.1442595960
+opencart-2.0.3.1/upload/system/cache/cache.order_status.1.1442595979
+opencart-2.0.3.1/upload/system/cache/cache.store.1442596000
+opencart-2.0.3.1/upload/system/logs/error.log
+opencart-2.0.3.1/upload/system/logs/openbay.log
